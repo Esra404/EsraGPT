@@ -16,6 +16,7 @@ EsraGPT, kullanıcıyı tanıyan, hafızaya sahip ve ileride RAG/vektör aramas�
 <img width="1535" height="833" alt="chat4" src="https://github.com/user-attachments/assets/29142056-2908-4b2d-96de-1cfe393c4086" />
 <img width="1542" height="944" alt="chat3" src="https://github.com/user-attachments/assets/aa4af54a-55e0-4a1e-b43b-943c5e108a16" />
 <img width="1544" height="939" alt="chat2" src="https://github.com/user-attachments/assets/86fb433f-9c85-48fd-96b0-befc719f51c7" />
+
 ## Proje yapısı
 ```text
 EsraChat/
