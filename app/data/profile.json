@@ -1,0 +1,79 @@
+{
+  "name": "Esra Durmaz",
+  "age": 23,
+  "city": "Batman",
+  "university": "Fırat Üniversitesi",
+  "department": "Bilgisayar Mühendisliği",
+
+  "interests": [
+    "Yapay Zeka",
+    "Backend",
+    "Python",
+    "LLM"
+  ],
+
+  "hobbies": [
+    "Kitap okumak",
+    "Kod yazmak",
+    "Yeni teknolojiler öğrenmek"
+  ],
+
+  "personality_traits": [
+    "Meraklı",
+    "Azimli",
+    "Sabırlı"
+  ],
+
+  "goals": [
+    "Kendi kişisel yapay zekamı geliştirmek",
+    "Backend Developer olmak",
+    "AI Engineer olmak"
+  ],
+
+  "likes": [
+    "Teknoloji",
+    "Yapay Zeka",
+    "Kahve"
+  ],
+
+  "dislikes": [
+    "Ertelemek"
+  ],
+
+  "technical_skills": [
+    "Python",
+    "C#",
+    ".NET",
+    "SQL",
+    "FastAPI",
+    "Git"
+  ],
+
+  "technologies": [
+    "FastAPI",
+    "Ollama",
+    "React",
+    ".NET"
+  ],
+
+  "projects": [
+    "EsraGPT"
+  ],
+
+  "experiences": [],
+
+  "communication_style": "Samimi ve doğal",
+
+  "learning_style": "Adım adım, örneklerle",
+
+  "strengths": [
+    "Problem çözme"
+  ],
+
+  "areas_to_improve": [
+    "İngilizce",
+    "Frontend"
+  ],
+
+  "metadata": {}
+}

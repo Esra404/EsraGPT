@@ -1,0 +1,327 @@
+2026-07-11 08:16:01,899 - INFO - app.main - Health check requested
+2026-07-11 08:20:33,037 - INFO - app.main - Profile data loaded from app\data\profile.json
+2026-07-11 08:20:34,136 - INFO - app.main - Profile data loaded from app\data\profile.json
+2026-07-11 08:21:18,293 - INFO - app.main - Health check requested
+2026-07-11 08:21:18,314 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-11 08:21:27,543 - INFO - app.main - Health check requested
+2026-07-11 08:21:27,563 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-11 08:21:49,815 - INFO - app.main - Health check requested
+2026-07-11 08:21:49,834 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-11 08:23:32,657 - INFO - app.main - Health check requested
+2026-07-11 08:23:32,677 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-11 08:23:39,749 - INFO - app.main - Profile data loaded from app\data\profile.json
+2026-07-11 08:28:39,863 - INFO - app.main - Profile data loaded from app\data\profile.json
+2026-07-11 08:28:40,883 - INFO - app.main - Profile data loaded from app\data\profile.json
+2026-07-11 08:28:51,129 - INFO - app.main - Profile data loaded from app\data\profile.json
+2026-07-11 08:28:58,654 - INFO - app.main - Health check requested
+2026-07-11 08:28:58,665 - INFO - app.services.memory_service - Memory added: Kullanıcı Python öğreniyor
+2026-07-11 08:28:58,689 - INFO - app.services.memory_service - Memory updated: 1
+2026-07-11 08:28:58,703 - INFO - app.services.memory_service - Memory deleted: 1
+2026-07-11 08:28:58,729 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-11 08:28:58,733 - INFO - app.services.prompt_service - System prompt built
+2026-07-11 08:29:05,497 - INFO - app.main - Profile data loaded from app\data\profile.json
+2026-07-11 09:09:42,559 - INFO - app.main - Health check requested
+2026-07-11 10:16:40,163 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-11 10:16:44,035 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-11 10:19:37,977 - INFO - app.services.prompt_service - System prompt built
+2026-07-11 10:19:37,978 - INFO - app.services.chat_service - Generating response for message: string
+2026-07-11 10:19:37,983 - INFO - app.services.conversation_service - Conversation saved
+2026-07-11 11:09:43,735 - INFO - app.main - Health check requested
+2026-07-11 11:09:43,744 - INFO - app.services.memory_service - Memory added: Kullanıcı Python öğreniyor
+2026-07-11 11:09:43,770 - INFO - app.services.memory_service - Memory updated: 1
+2026-07-11 11:09:43,784 - INFO - app.services.memory_service - Memory deleted: 1
+2026-07-11 11:09:43,810 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-11 11:09:43,822 - INFO - app.services.prompt_service - System prompt built
+2026-07-11 11:11:40,642 - INFO - app.main - Profile data loaded from app\data\profile.json
+2026-07-11 11:23:38,497 - INFO - app.main - Health check requested
+2026-07-11 11:23:38,517 - INFO - app.services.memory_service - Memory added: Kullanıcı Python öğreniyor
+2026-07-11 11:23:38,571 - INFO - app.services.memory_service - Memory updated: 1
+2026-07-11 11:23:38,600 - INFO - app.services.memory_service - Memory deleted: 1
+2026-07-11 11:23:38,655 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-11 11:23:38,667 - INFO - app.services.prompt_service - System prompt built
+2026-07-11 11:23:45,148 - INFO - app.main - Profile data loaded from app\data\profile.json
+2026-07-11 13:25:28,598 - INFO - app.main - Profile data loaded from app\data\profile.json
+2026-07-11 13:25:34,109 - INFO - app.main - Health check requested
+2026-07-11 13:25:34,118 - INFO - app.services.memory_service - Memory added: Kullanıcı Python öğreniyor
+2026-07-11 13:25:34,144 - INFO - app.services.memory_service - Memory updated: 1
+2026-07-11 13:25:34,157 - INFO - app.services.memory_service - Memory deleted: 1
+2026-07-11 13:25:34,180 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-11 13:25:34,186 - INFO - app.services.prompt_service - System prompt built
+2026-07-11 13:25:39,673 - INFO - app.main - Profile data loaded from app\data\profile.json
+2026-07-11 13:25:44,511 - INFO - app.main - Health check requested
+2026-07-11 13:26:37,838 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-11 13:47:11,716 - INFO - app.main - Health check requested
+2026-07-11 13:47:11,724 - INFO - app.services.memory_service - Memory added: Kullanıcı Python öğreniyor
+2026-07-11 13:47:11,751 - INFO - app.services.memory_service - Memory updated: 1
+2026-07-11 13:47:11,765 - INFO - app.services.memory_service - Memory deleted: 1
+2026-07-11 13:47:11,789 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-11 13:47:11,795 - INFO - app.services.prompt_service - System prompt built
+2026-07-11 13:47:15,775 - INFO - app.main - Profile data loaded from app\data\profile.json
+2026-07-11 13:48:34,160 - INFO - app.main - Profile data loaded from app\data\profile.json
+2026-07-11 13:53:34,220 - INFO - app.main - Profile data loaded from app\data\profile.json
+2026-07-11 13:54:10,384 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-11 13:54:15,919 - INFO - app.main - Profile data loaded from app\data\profile.json
+2026-07-11 13:56:30,962 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-11 13:59:25,954 - INFO - app.main - Health check requested
+2026-07-11 14:02:54,830 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-11 14:04:51,744 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-11 14:09:18,932 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-11 14:09:19,058 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-11 14:09:34,398 - INFO - app.main - Health check requested
+2026-07-11 14:09:34,410 - INFO - app.services.memory_service - Memory added: Kullanıcı Python öğreniyor
+2026-07-11 14:09:34,438 - INFO - app.services.memory_service - Memory updated: 1
+2026-07-11 14:09:34,450 - INFO - app.services.memory_service - Memory deleted: 1
+2026-07-11 14:09:34,478 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-11 14:09:34,590 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-11 14:09:34,593 - INFO - app.services.prompt_service - System prompt built
+2026-07-11 14:09:41,300 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-11 14:09:41,403 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-11 14:09:44,036 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-11 14:09:44,146 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-11 14:10:11,404 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-11 14:10:11,413 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-11 14:10:21,511 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-11 14:15:36,047 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-11 14:30:06,882 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-11 14:33:22,165 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-11 14:52:12,239 - INFO - app.services.memory_service - Created memory store at app\data\memories.json
+2026-07-11 14:52:12,282 - INFO - app.services.memory_service - Memory added: Kullanıcı Python öğreniyor
+2026-07-11 14:52:12,309 - INFO - app.services.memory_service - Memory updated: cdac1f49-25b5-42ba-9a3d-b56a0dfc575f
+2026-07-11 14:52:12,322 - INFO - app.services.memory_service - Memory deleted: cdac1f49-25b5-42ba-9a3d-b56a0dfc575f
+2026-07-11 14:52:45,091 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-11 14:52:46,266 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-12 11:46:11,664 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-12 12:02:06,038 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-12 12:03:35,437 - INFO - app.main - Health check requested
+2026-07-12 12:03:35,447 - INFO - app.services.memory_service - Memory added: Kullanıcı Python öğreniyor
+2026-07-12 12:03:35,479 - INFO - app.services.memory_service - Memory updated: 2b937112-82b2-4eb9-b92a-204fc667f6cb
+2026-07-12 12:03:35,496 - INFO - app.services.memory_service - Memory deleted: 2b937112-82b2-4eb9-b92a-204fc667f6cb
+2026-07-12 12:03:35,529 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-12 12:03:35,551 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-12 12:03:35,557 - INFO - app.services.prompt_service - System prompt built
+2026-07-12 12:05:30,700 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-12 12:25:27,260 - INFO - app.services.memory_service - Memory added: Esra kahveyi çok sever.
+2026-07-12 15:13:53,996 - INFO - app.services.memory_service - Memory updated: 37e86dee-f9d1-473c-9e6b-dcebda391aae
+2026-07-12 15:15:03,627 - INFO - app.services.memory_service - Memory deleted: 37e86dee-f9d1-473c-9e6b-dcebda391aae
+2026-07-12 15:30:38,818 - INFO - app.services.prompt_service - System prompt built
+2026-07-12 15:32:53,827 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-12 15:32:55,002 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-12 18:06:04,190 - WARNING - app.services.gemini_service - Gemini API key is not configured.
+2026-07-12 18:06:04,236 - INFO - app.main - Health check requested
+2026-07-12 18:06:04,242 - WARNING - app.services.llm_service - Gemini API anahtarı .env dosyasından okunamadı.
+2026-07-12 18:06:04,242 - ERROR - app.services.llm_service - Gemini API anahtarı eksik: .env dosyasına GEMINI_API_KEY ekleyin.
+2026-07-12 18:06:04,248 - INFO - app.services.memory_service - Memory added: Kullanıcı Python öğreniyor
+2026-07-12 18:06:04,275 - INFO - app.services.memory_service - Memory updated: aa4b51d1-931a-4172-b05b-348ce5491f6b
+2026-07-12 18:06:04,289 - INFO - app.services.memory_service - Memory deleted: aa4b51d1-931a-4172-b05b-348ce5491f6b
+2026-07-12 18:06:04,350 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-12 18:06:04,360 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-12 18:06:04,364 - INFO - app.services.prompt_service - System prompt built
+2026-07-12 18:07:50,808 - WARNING - app.services.gemini_service - Gemini API key is not configured.
+2026-07-12 18:07:50,850 - INFO - app.main - Health check requested
+2026-07-12 18:07:50,856 - WARNING - app.services.llm_service - Gemini API anahtarı .env dosyasından okunamadı.
+2026-07-12 18:07:50,856 - ERROR - app.services.llm_service - Gemini API anahtarı eksik: .env dosyasına GEMINI_API_KEY ekleyin.
+2026-07-12 18:07:50,862 - INFO - app.services.memory_service - Memory added: Kullanıcı Python öğreniyor
+2026-07-12 18:07:50,890 - INFO - app.services.memory_service - Memory updated: 414901a0-ef8e-4f75-96b3-82e24af92eb4
+2026-07-12 18:07:50,904 - INFO - app.services.memory_service - Memory deleted: 414901a0-ef8e-4f75-96b3-82e24af92eb4
+2026-07-12 18:07:50,934 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-12 18:07:50,945 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-12 18:07:50,949 - INFO - app.services.prompt_service - System prompt built
+2026-07-12 18:08:20,652 - WARNING - app.services.gemini_service - Gemini API key is not configured.
+2026-07-12 18:08:20,683 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-12 18:08:37,067 - WARNING - app.services.gemini_service - Gemini API key is not configured.
+2026-07-12 18:08:37,131 - INFO - app.main - Health check requested
+2026-07-12 18:13:57,518 - WARNING - app.services.gemini_service - Gemini API key is not configured.
+2026-07-12 18:14:20,601 - WARNING - app.services.gemini_service - Gemini API key is not configured.
+2026-07-12 18:14:20,603 - WARNING - app.services.gemini_service - Gemini API key is not configured.
+2026-07-12 18:14:20,604 - INFO - app.services.prompt_service - System prompt built
+2026-07-12 18:14:20,605 - INFO - app.services.conversation_service - Conversation saved
+2026-07-12 18:15:05,029 - WARNING - app.services.gemini_service - Gemini API key is not configured.
+2026-07-12 18:15:05,058 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-12 18:15:29,555 - WARNING - app.services.gemini_service - Gemini API key is not configured.
+2026-07-12 18:15:29,581 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-12 18:15:58,233 - WARNING - app.services.gemini_service - Gemini API key is not configured.
+2026-07-12 18:15:58,274 - INFO - app.main - Health check requested
+2026-07-12 18:15:58,279 - WARNING - app.services.llm_service - Gemini API anahtarı .env dosyasından okunamadı.
+2026-07-12 18:15:58,279 - ERROR - app.services.llm_service - Gemini API anahtarı eksik: .env dosyasına GEMINI_API_KEY ekleyin.
+2026-07-12 18:15:58,285 - INFO - app.services.memory_service - Memory added: Kullanıcı Python öğreniyor
+2026-07-12 18:15:58,315 - INFO - app.services.memory_service - Memory updated: 0f6b312d-abd9-4ce0-8af1-28ef29150852
+2026-07-12 18:15:58,329 - INFO - app.services.memory_service - Memory deleted: 0f6b312d-abd9-4ce0-8af1-28ef29150852
+2026-07-12 18:15:58,359 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-12 18:15:58,371 - INFO - app.services.profile_service - Profile updated successfully
+2026-07-12 18:15:58,375 - INFO - app.services.prompt_service - System prompt built
+2026-07-12 18:23:54,485 - WARNING - app.services.gemini_service - Gemini API key is not configured.
+2026-07-12 18:24:01,244 - WARNING - app.services.gemini_service - Gemini API key is not configured.
+2026-07-12 18:44:39,437 - INFO - app.services.prompt_service - System prompt built
+2026-07-12 18:44:39,457 - INFO - app.services.conversation_service - Conversation saved
+2026-07-12 18:48:06,936 - INFO - app.services.prompt_service - System prompt built
+2026-07-12 18:48:06,955 - INFO - app.services.conversation_service - Conversation saved
+2026-07-12 18:54:45,229 - INFO - app.services.gemini_service - Gemini client initialized successfully for model gemini-2.5-flash
+2026-07-12 18:54:46,990 - ERROR - app.services.gemini_service - Gemini request failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}
+Traceback (most recent call last):
+  File "C:\Users\codee\OneDrive\Desktop\EsraChat\app\services\gemini_service.py", line 41, in generate_response
+    response = self.client.models.generate_content(
+        model=self.model,
+    ...<5 lines>...
+        ),
+    )
+  File "C:\Users\codee\OneDrive\Desktop\EsraChat\.venv\Lib\site-packages\google\genai\models.py", line 4680, in generate_content
+    response = self._generate_content(
+        model=model, contents=contents, config=config
+    )
+  File "C:\Users\codee\OneDrive\Desktop\EsraChat\.venv\Lib\site-packages\google\genai\models.py", line 3839, in _generate_content
+    response_dict = self._api_client.request(
+        'post', path, request_dict, http_options
+    )
+  File "C:\Users\codee\OneDrive\Desktop\EsraChat\.venv\Lib\site-packages\google\genai\_api_client.py", line 449, in request
+    response = self._request(http_request, stream=False)
+  File "C:\Users\codee\OneDrive\Desktop\EsraChat\.venv\Lib\site-packages\google\genai\_api_client.py", line 384, in _request
+    return self._request_unauthorized(http_request, stream)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\codee\OneDrive\Desktop\EsraChat\.venv\Lib\site-packages\google\genai\_api_client.py", line 407, in _request_unauthorized
+    errors.APIError.raise_for_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\codee\OneDrive\Desktop\EsraChat\.venv\Lib\site-packages\google\genai\errors.py", line 100, in raise_for_response
+    raise ClientError(status_code, response)
+google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}
+2026-07-12 18:56:11,384 - INFO - app.services.gemini_service - Gemini client initialized successfully for model gemini-2.5-flash
+2026-07-12 18:56:11,408 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-12 19:02:11,147 - INFO - app.services.prompt_service - System prompt built
+2026-07-12 19:02:12,377 - ERROR - app.services.gemini_service - Gemini request failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}
+Traceback (most recent call last):
+  File "C:\Users\codee\OneDrive\Desktop\EsraChat\app\services\gemini_service.py", line 41, in generate_response
+    response = self.client.models.generate_content(
+        model=self.model,
+    ...<5 lines>...
+        ),
+    )
+  File "C:\Users\codee\OneDrive\Desktop\EsraChat\.venv\Lib\site-packages\google\genai\models.py", line 4680, in generate_content
+    response = self._generate_content(
+        model=model, contents=contents, config=config
+    )
+  File "C:\Users\codee\OneDrive\Desktop\EsraChat\.venv\Lib\site-packages\google\genai\models.py", line 3839, in _generate_content
+    response_dict = self._api_client.request(
+        'post', path, request_dict, http_options
+    )
+  File "C:\Users\codee\OneDrive\Desktop\EsraChat\.venv\Lib\site-packages\google\genai\_api_client.py", line 449, in request
+    response = self._request(http_request, stream=False)
+  File "C:\Users\codee\OneDrive\Desktop\EsraChat\.venv\Lib\site-packages\google\genai\_api_client.py", line 384, in _request
+    return self._request_unauthorized(http_request, stream)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\codee\OneDrive\Desktop\EsraChat\.venv\Lib\site-packages\google\genai\_api_client.py", line 407, in _request_unauthorized
+    errors.APIError.raise_for_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\codee\OneDrive\Desktop\EsraChat\.venv\Lib\site-packages\google\genai\errors.py", line 100, in raise_for_response
+    raise ClientError(status_code, response)
+google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}
+2026-07-12 19:02:12,396 - INFO - app.services.conversation_service - Conversation saved
+2026-07-12 19:02:55,497 - INFO - app.services.prompt_service - System prompt built
+2026-07-12 19:02:56,395 - ERROR - app.services.gemini_service - Gemini request failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}
+Traceback (most recent call last):
+  File "C:\Users\codee\OneDrive\Desktop\EsraChat\app\services\gemini_service.py", line 41, in generate_response
+    response = self.client.models.generate_content(
+        model=self.model,
+    ...<5 lines>...
+        ),
+    )
+  File "C:\Users\codee\OneDrive\Desktop\EsraChat\.venv\Lib\site-packages\google\genai\models.py", line 4680, in generate_content
+    response = self._generate_content(
+        model=model, contents=contents, config=config
+    )
+  File "C:\Users\codee\OneDrive\Desktop\EsraChat\.venv\Lib\site-packages\google\genai\models.py", line 3839, in _generate_content
+    response_dict = self._api_client.request(
+        'post', path, request_dict, http_options
+    )
+  File "C:\Users\codee\OneDrive\Desktop\EsraChat\.venv\Lib\site-packages\google\genai\_api_client.py", line 449, in request
+    response = self._request(http_request, stream=False)
+  File "C:\Users\codee\OneDrive\Desktop\EsraChat\.venv\Lib\site-packages\google\genai\_api_client.py", line 384, in _request
+    return self._request_unauthorized(http_request, stream)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\codee\OneDrive\Desktop\EsraChat\.venv\Lib\site-packages\google\genai\_api_client.py", line 407, in _request_unauthorized
+    errors.APIError.raise_for_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\codee\OneDrive\Desktop\EsraChat\.venv\Lib\site-packages\google\genai\errors.py", line 100, in raise_for_response
+    raise ClientError(status_code, response)
+google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}
+2026-07-12 19:02:56,418 - INFO - app.services.conversation_service - Conversation saved
+2026-07-12 19:09:09,528 - INFO - app.services.gemini_service - Gemini client initialized successfully for model gemini-2.5-flash
+2026-07-12 19:09:32,853 - ERROR - app.services.gemini_service - Gemini request failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}
+Traceback (most recent call last):
+  File "C:\Users\codee\OneDrive\Desktop\EsraChat\app\services\gemini_service.py", line 41, in generate_response
+    response = self.client.models.generate_content(
+        model=self.model,
+    ...<5 lines>...
+        ),
+    )
+  File "c:\Users\codee\OneDrive\Desktop\EsraChat\.venv\Lib\site-packages\google\genai\models.py", line 4680, in generate_content
+    response = self._generate_content(
+        model=model, contents=contents, config=config
+    )
+  File "c:\Users\codee\OneDrive\Desktop\EsraChat\.venv\Lib\site-packages\google\genai\models.py", line 3839, in _generate_content
+    response_dict = self._api_client.request(
+        'post', path, request_dict, http_options
+    )
+  File "c:\Users\codee\OneDrive\Desktop\EsraChat\.venv\Lib\site-packages\google\genai\_api_client.py", line 449, in request
+    response = self._request(http_request, stream=False)
+  File "c:\Users\codee\OneDrive\Desktop\EsraChat\.venv\Lib\site-packages\google\genai\_api_client.py", line 384, in _request
+    return self._request_unauthorized(http_request, stream)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\codee\OneDrive\Desktop\EsraChat\.venv\Lib\site-packages\google\genai\_api_client.py", line 407, in _request_unauthorized
+    errors.APIError.raise_for_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "c:\Users\codee\OneDrive\Desktop\EsraChat\.venv\Lib\site-packages\google\genai\errors.py", line 100, in raise_for_response
+    raise ClientError(status_code, response)
+google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}
+2026-07-12 19:52:23,466 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-12 19:57:23,806 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-12 19:57:26,443 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-12 23:29:46,727 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-12 23:30:18,429 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-12 23:35:44,456 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-12 23:36:06,820 - INFO - app.services.prompt_service - System prompt built
+2026-07-12 23:36:09,739 - INFO - app.services.conversation_service - Conversation saved
+2026-07-13 08:35:06,739 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-13 08:35:29,792 - INFO - app.services.prompt_service - System prompt built
+2026-07-13 08:35:32,517 - INFO - app.services.conversation_service - Conversation saved
+2026-07-13 08:39:53,596 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-13 08:40:06,148 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-13 09:00:51,593 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-13 09:01:00,433 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-13 09:01:08,404 - INFO - app.services.prompt_service - System prompt built
+2026-07-13 09:01:14,291 - INFO - app.services.conversation_service - Conversation saved
+2026-07-13 09:11:45,147 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-13 09:17:41,110 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-13 09:17:48,917 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-13 09:34:13,967 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-13 09:50:04,138 - INFO - app.services.prompt_service - System prompt built
+2026-07-13 09:50:07,125 - INFO - app.services.conversation_service - Conversation saved
+2026-07-28 20:00:02,069 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-28 20:00:48,740 - INFO - app.services.prompt_service - System prompt built
+2026-07-28 20:00:55,540 - INFO - app.services.conversation_service - Conversation saved
+2026-07-28 20:22:25,941 - INFO - app.main - Health check requested
+2026-07-28 20:26:47,763 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-28 20:26:55,735 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-28 20:27:06,963 - INFO - app.services.prompt_service - System prompt built
+2026-07-28 20:27:09,140 - INFO - app.services.conversation_service - Conversation saved
+2026-07-28 20:28:55,337 - INFO - app.services.prompt_service - System prompt built
+2026-07-28 20:28:56,879 - INFO - app.services.conversation_service - Conversation saved
+2026-07-28 20:29:26,404 - INFO - app.services.prompt_service - System prompt built
+2026-07-28 20:29:28,808 - INFO - app.services.conversation_service - Conversation saved
+2026-07-28 20:35:07,561 - INFO - app.services.prompt_service - System prompt built
+2026-07-28 20:35:11,060 - INFO - app.services.conversation_service - Conversation saved
+2026-07-29 05:43:19,093 - INFO - app.services.prompt_service - System prompt built
+2026-07-29 05:43:20,761 - INFO - app.services.conversation_service - Conversation saved
+2026-07-29 05:43:39,808 - INFO - app.services.prompt_service - System prompt built
+2026-07-29 05:43:43,821 - INFO - app.services.conversation_service - Conversation saved
+2026-07-29 05:43:58,694 - INFO - app.services.prompt_service - System prompt built
+2026-07-29 05:44:00,094 - INFO - app.services.conversation_service - Conversation saved
+2026-07-31 13:54:32,678 - INFO - app.main - Profile data loaded from C:\Users\codee\OneDrive\Desktop\EsraChat\app\data\profile.json
+2026-07-31 13:56:29,939 - INFO - app.services.prompt_service - System prompt built
+2026-07-31 13:56:34,280 - INFO - app.services.conversation_service - Conversation saved
+2026-07-31 16:19:33,251 - INFO - app.services.prompt_service - System prompt built
+2026-07-31 16:19:38,548 - INFO - app.services.conversation_service - Conversation saved
+2026-07-31 16:20:10,360 - INFO - app.services.prompt_service - System prompt built
+2026-07-31 16:20:16,511 - INFO - app.services.conversation_service - Conversation saved
+2026-07-31 16:20:57,146 - INFO - app.services.prompt_service - System prompt built
+2026-07-31 16:20:58,292 - INFO - app.services.conversation_service - Conversation saved
+2026-07-31 16:21:25,793 - INFO - app.services.prompt_service - System prompt built
+2026-07-31 16:21:30,298 - INFO - app.services.conversation_service - Conversation saved
