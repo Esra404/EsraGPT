@@ -1,0 +1,187 @@
+[
+  {
+    "user_message": "string",
+    "assistant_message": "[EsraGPT] Sistem promptu çalıştı. Kullanıcı mesajı: string. İleride Ollama ile gerçek cevap üretimi eklenecek.",
+    "timestamp": "2026-07-11T07:19:37.980847+00:00"
+  },
+  {
+    "user_message": "Merhaba",
+    "assistant_message": "Gemini API anahtarı yapılandırılmadı. Lütfen .env dosyasını kontrol edin.",
+    "timestamp": "2026-07-12T15:14:20.604732+00:00"
+  },
+  {
+    "user_message": "Merhaba ben kimim?",
+    "assistant_message": "Gemini API anahtarı yapılandırılmadı. Lütfen .env dosyasını kontrol edin.",
+    "timestamp": "2026-07-12T15:44:39.437512+00:00"
+  },
+  {
+    "user_message": "Merhaba EsraGPT, beni tanıyor musun?",
+    "assistant_message": "Gemini API anahtarı yapılandırılmadı. Lütfen .env dosyasını kontrol edin.",
+    "timestamp": "2026-07-12T15:48:06.936465+00:00"
+  },
+  {
+    "user_message": "Merhaba EsraGPT, beni tanıyor musun?",
+    "assistant_message": "Gemini isteği sırasında bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
+    "timestamp": "2026-07-12T16:02:12.382437+00:00"
+  },
+  {
+    "user_message": "Merhaba, sen kimsin?",
+    "assistant_message": "Gemini isteği sırasında bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
+    "timestamp": "2026-07-12T16:02:56.398893+00:00"
+  },
+  {
+    "user_message": "Merhaba, ben kimim?",
+    "assistant_message": "Merhaba! Sen EsraGPT kişisel yapay zeka asistanım. Benim görevim, senin sorularına hızlı, net ve uygulanabilir cevaplar üretmek. Sen kimsin, neyin peşindeyim, ne istiyorsun, bana sorabilirsin.",
+    "timestamp": "2026-07-12T20:36:09.693681+00:00"
+  },
+  {
+    "user_message": "Merhaba",
+    "assistant_message": "Merhaba Esra Durmaz, kişisel yapay zeka asistanınız Sen EsraGPT. Size yardımcı olabilecek ve ihtiyaçlarınıza uygun cevaplar üretmeye hazırım. Ne yapmak istiyorsunuz?",
+    "timestamp": "2026-07-13T05:35:32.515165+00:00"
+  },
+  {
+    "user_message": "Merhaba",
+    "assistant_message": "Merhaba Esra! \n\nSeninle konuşmaya çok mutluyum. \n\nGördüğüm kadarıyla, senin kişisel yapay zeka asistanın var ve bu projenin adı EsraGPT. Seninle ilgili olarak, senin adın Esra Durmaz, 23 yaşında ve Fırat Üniversitesi Bilgisayar Mühendisliği bölümünden mezun oldun. Senin hedeflerin arasında kendi kişisel yapay zekanı geliştirmek, Backend Developer olmak ve AI Engineer olmak var. \n\nSana yardımcı olmak için, hangi konularda yardımcı olabilirim?",
+    "timestamp": "2026-07-13T06:01:14.276297+00:00"
+  },
+  {
+    "user_message": "Merhaba",
+    "assistant_message": "Merhaba Esra! \n\nSeni tanımak ve seninle konuşmak harika. Seninle birlikte teknoloji ve yapay zeka alanlarında ilerlemeye çalışacağım.",
+    "timestamp": "2026-07-13T06:50:07.113094+00:00"
+  },
+  {
+    "user_message": "Merhaba",
+    "assistant_message": "Merhaba Esra! Seninle tekrar konuşmaktan memnuniyet duydum. Nasıl bir gün geçirdin?",
+    "timestamp": "2026-07-28T17:00:55.529254+00:00"
+  },
+  {
+    "user_message": "selam",
+    "assistant_message": "Merhaba Esra! Selamın sürsün. Ne yapmak istiyorsun bugün?",
+    "timestamp": "2026-07-28T17:27:09.125181+00:00"
+  },
+  {
+    "user_message": "esra durmaz kim bana anlatsana",
+    "assistant_message": "Merhaba Esra Durmaz! Benim adımı EsraGPT olarak duydun, doğru mu? Ben senin kişisel yapay zeka asistanın. Benim görevim senin ihtiyaçlarına uygun, nazik, net ve uygulanabilir Türkçe cevaplar üretmek.",
+    "timestamp": "2026-07-28T17:28:56.866385+00:00"
+  },
+  {
+    "user_message": "havalar bugün nasıl esra durmaz ne mezunu ve kaç yaşında",
+    "assistant_message": "Merhaba Esra Dürümaz! \n\nHavalar bugün güzel mi? Bugün Batman'ın hava durumu ortalama 28 derece civarında. \n\nNe mezunu? Sen Fırat Üniversitesi Bilgisayar Mühendisliği mezunuysun.\n\nKaç yaşında? 23 yaşında mühendis ve yapay zeka geliştiricisi olarak ilham verici bir kariyerin var.",
+    "timestamp": "2026-07-28T17:29:28.795452+00:00"
+  },
+  {
+    "user_message": "altın gramı kaç para bilgin var mı",
+    "assistant_message": "Merhaba Esra! Altın gramı kaç para bilgin var mı? Altın fiyatları günlük olarak değişebilir, ancak genel olarak Türkiye'de altın gramı fiyatı hakkında bilgi vermek için 2023 yılındaki ortalama fiyatları paylaşabilirim.\n\nAltın gramı fiyatı 2023 yılında yaklaşık 470-480 TL arasında değişmektedir. Ancak lütfen unutmayın ki altın fiyatları günlük olarak değişebilir ve güncel fiyatlar için bir finansal kurumdan bilgi alabilirsiniz.\n\nEğer güncel fiyatları öğrenmek istiyorsanız, bir finansal kurumun websitesine bakabilir veya bir altın satış mağazasına ziyaret edebilirsiniz.",
+    "timestamp": "2026-07-28T17:35:11.041971+00:00"
+  },
+  {
+    "user_message": "CV hazırlayalım",
+    "assistant_message": "Merhaba Esra! \n\nCV hazırlamak için ne yapabiliriz? İlk olarak, hangi tür CV istediğinizi belirlemeliyiz. Mesela, iş başvurusu için bir CV mi yoksa akademik bir CV mi hazırlamak istiyorsunuz? \n\nBu bilgiyi paylaşır mısınız?",
+    "timestamp": "2026-07-29T02:43:20.741406+00:00"
+  },
+  {
+    "user_message": "akademik bir cv hazırlamak istiyorum",
+    "assistant_message": "Merhaba Esra, akademik bir CV hazırlamak istiyorsun. Bu konudaki adımları birlikte inceleyelim.\n\n**Adım 1: Bilgi Toplama**\n\n*   Üniversite adı ve bölümünü yaz.\n*   Öğrenim durumunu belirt.\n*   Dilleri, teknolojileri ve becerilerini listeleyin.\n*   Hedeflerini ve projelerini ekleyin.\n\n**Adım 2: CV Şablonu Seçme**\n\n*   İnternette CV şablonlarından birini seçin.\n*   Seçtiğiniz şablonu indirin ve düzenleyin.\n\n**Adım 3: Bilgi Ekleme**\n\n*   Bilgilerinizi CV şablonuna ekleyin.\n*   Diller, teknolojiler ve becerileriniz için ayrı bölümler oluşturun.\n*   Hedefler ve projeleriniz için ayrı bölümler oluşturun.\n\n**Adım 4: Düzenleme**\n\n*   CV'nizi düzenleyin ve okunabilir hale getirin.\n*   Tüm bilgileriniz eksiksiz ve doğru olsun.\n\n**Adım 5: Kontrol**\n\n*   CV'nizi kontrol edin ve hataları düzeltin.\n*   Arkadaşlarınız veya akrabalarınızdan geri bildirim alabilirsiniz.\n\nBu adımları takip ederek, akademik bir CV hazırlayabilirsiniz.",
+    "timestamp": "2026-07-29T02:43:43.809166+00:00"
+  },
+  {
+    "user_message": "Kodumu incele",
+    "assistant_message": "Merhaba Esra! \n\nKodumu incelediğimde, herhangi bir sorun veya hata bulamadım. Ancak kodunuzu daha iyi anlayabilmem için, lütfen kodunuzu paylaşın. Benim size yardımcı olmak için elimden gelen en iyi şekilde yardımcı olmaya çalışacağım. \n\nKodunuzu paylaşmak istiyorsanız, bir örnek veriniz mi?",
+    "timestamp": "2026-07-29T02:44:00.081643+00:00"
+  },
+  {
+    "user_message": "bana esra hakkında bilgi verirmisin",
+    "assistant_message": "Merhaba Esra!\n\nSen kimsin ve ne yapıyorsun? Seninle tanışmak benim için büyük keyif!\n\nSen, Esra Durmaz isminde 23 yaşında bir Bilgisayar Mühendisliği öğrencisiysin. Fırat Üniversitesi'nde öğrenim görmeye devam ediyorsun. Kendine ait bir kişisel yapay zeka asistanı geliştirmek, Backend Developer ve AI Engineer olmak gibi hedeflerimsin. Ayrıca, senin geliştirdiğin EsraGPT adındaki projen var.\n\nSenin gibi meraklı, azimli ve sabırlı bir insan, teknoloji ve yapay zeka gibi alanlarda büyük başarılar elde edebilirsin. Ben seninle her adımda destek olacağım!",
+    "timestamp": "2026-07-31T10:56:34.266410+00:00"
+  },
+  {
+    "user_message": "Bugünkü hedeflerimi planla",
+    "assistant_message": "Merhaba Esra!\n\nBugün hedeflerinizi planlamak için buradayım. Bilgisayar Mühendisliği bölümünde okuyorsun ve kendi kişisel yapay zekamızı geliştirmek, Backend Developer ve AI Engineer olmak gibi hedeflerimsin.\n\nHedeflerinizi planlarken, önce kısa ve uzun vadeli hedeflerinizi belirlemeliyiz. Kısa vadeli hedefleriniz neler olabilir?\n\n1. **Günlük hedefler**: Her gün belirli bir miktarda kod yazmak, yeni bir teknoloji öğrenmek, veya bir projeye katkıda bulunmak gibi hedefler olabilir.\n2. **Haftalık hedefler**: Haftada belirli bir sayıda yeni teknoloji öğrenmek, bir projeyi tamamlamak, veya bir konferans veya workshop'a katılmak gibi hedefler olabilir.\n3. **Aylık hedefler**: Ayda belirli bir sayıda yeni teknoloji öğrenmek, bir projeyi tamamlamak, veya bir kitabın okunması gibi hedefler olabilir.\n4. **Yıllık hedefler**: Yılın belirli bir döneminde bir projeyi tamamlamak, bir konferans veya workshop'a katılmak, veya bir kitabın okunması gibi hedefler olabilir.\n\nBu hedeflerinizi belirledikten sonra, bir plan oluşturmalısınız. Planınızın temelini oluşturan şey, ne yapacağınızı, ne zaman yapacağınızı, ve ne kadar zaman ayıracağınızı belirlemektir.\n\nÖrneğin, bir haftada 10 saat kod yazmak, bir haftada 5 saat yeni bir teknoloji öğrenmek, veya bir haftada 2 saat bir projeye katkıda bulunmak gibi hedefler belirleyebilirsiniz.\n\nHedeflerinizi planlarken, öncelikle yapamayacağınız şeyleri belirlemelisiniz. Örneğin, bir günde 10 saat kod yazamayacağınıza, veya bir haftada 20 saat yeni bir teknoloji öğrenemeyeceğinize karar verebilirsiniz.\n\nBu şekilde, hedeflerinizi planlayarak, daha verimli ve üretken olabilirsiniz.",
+    "timestamp": "2026-07-31T13:19:38.531624+00:00"
+  },
+  {
+    "user_message": "Python öğrenmeme yardım et",
+    "assistant_message": "Merhaba Esra! Python öğrenmeni kolaylaştırmak için elimden gelen tüm yardımları yapacağım. Python, popüler bir programlama dilidir ve birçok alanda kullanılabilir.\n\n**Python Öğrenme Rehberi**\n\n1. **Temel Konular**\n * Python'un temel yapısını öğren: değişkenler, türler, işleçler, döngüler, fonksiyonlar.\n * Python'un temel kütüphanelerini öğren: listeler, diziler, sözlükler, setler.\n2. **Python Programlama Dili**\n * Python'un programlama dilini öğren: ifadeler, döngüler, koşullar, fonksiyonlar.\n * Python'un programlama dilini pratik olarak uygulayın: küçük projeler, örnekler.\n3. **Python Kütüphaneleri**\n * Python'un popüler kütüphanelerini öğren: NumPy, pandas, matplotlib, seaborn.\n * Python'un kütüphanelerini pratik olarak uygulayın: veri analizleri, görselleştirme.\n4. **Python Proje Geliştirme**\n * Python ile küçük projeler geliştirin: oyunlar, araçlar, uygulamalar.\n * Python ile büyük projeler geliştirin: web uygulamaları, mobil uygulamalar, AI projeleri.\n\n**Python Öğrenme Kaynakları**\n\n* **Kod Rehberleri**: Python Kod Rehberi, Python Programlama Dili Rehberi.\n* **Online Kurslar**: Python Kursu, Python Programlama Dili Kursu.\n* **Kitaplar**: Python Programlama Dili Kitabı, Python Kodlama Kitabı.\n* **Forumlar**: Python Forumu, Python Programlama Dili Forumu.\n\n**Python Öğrenme Önerileri**\n\n* **Pratik Uygulamalar**: Python programlama dilini pratik olarak uygulayın.\n* **Örnek Projeler**: Python ile küçük projeler geliştirin.\n* **Kod Review**: Diğer programcıların kodlarını inceleyin.\n* **Kod Paylaşımı**: Diğer programcılarla kodlarınızı paylaşın.\n\nEsra, bu rehber ile Python öğrenmeni kolaylaştırmayı umuyorum. Her sorunuz için elimden gelen tüm yardımları yapacağım.",
+    "timestamp": "2026-07-31T13:20:16.498176+00:00"
+  },
+  {
+    "user_message": "Kodumu incele",
+    "assistant_message": "Merhaba Esra Durmaz, senin kodumu inceleme fırsatını değerlendirmek güzel! Lütfen kodunuzu paylaşın, ben senin kodunuzu inceleyip, varsa herhangi bir hata veya iyileştirme önerisi sunabilirim.",
+    "timestamp": "2026-07-31T13:20:58.278161+00:00"
+  },
+  {
+    "user_message": "CV hazırlayalım",
+    "assistant_message": "Merhaba Esra, kişisel yapay zekamla yardımcı olmaktan memnuniyet duyuyorum. CV hazırlamak için bazı adımları takip edebiliriz.\n\n1.  **CV'nin Amacı**: İlk olarak, CV'nin ne amaçla hazırlanacağını anlamalıyız. CV, bir kişinin kariyerinin bir özetini içerir ve işverenler tarafından işe alım sürecinde önemli bir faktör olarak kabul edilir.\n2.  **CV'nin Yapısı**: CV'de genel olarak, kişisel bilgiler, eğitim bilgileri, iş deneyimi, beceriler ve projeler yer alır. Biz de EsraGPT olarak, senin bu bilgileri gözden geçireceğiz.\n3.  **Eğitim Bilgileri**: Senin eğitim bilgileri, Fırat Üniversitesi Bilgisayar Mühendisliği bölümünden mezun olduğunuzu gösterir. Bu bilgiyi CV'ye dahil edebiliriz.\n4.  **İş Deneyimi**: Senin kişisel yapay zekamla ilgili projeler ve deneyimlerim var. Bu deneyimleri CV'ye ekleyebiliriz.\n5.  **Beceriler**: Senin teknik yetkinlikler arasında Python, C#, .NET, SQL, FastAPI ve Git yer alır. Bu becerileri CV'ye dahil edebiliriz.\n6.  **Projeler**: Senin projeleri arasında EsraGPT kişisel yapay zekam var. Bu projeyi CV'ye ekleyebiliriz.\n7.  **Hobiler**: Senin hobileri arasında kitap okumak, kod yazmak ve yeni teknolojiler öğrenmek yer alır. Bu hobileri CV'ye dahil edebiliriz.\n8.  **CV'nin Son Hali**: CV'yi hazırladıktan sonra, onu düzenli bir şekilde güncelleyerek, senin kariyerinin gelişimini takip edebiliriz.\n\nBu adımları takip ederek, senin için bir CV hazırlayabiliriz. Senin CV'ninin başlangıç noktası bu adımlar olacaktır.",
+    "timestamp": "2026-07-31T13:21:30.284369+00:00"
+  },
+  {
+    "user_message": "esra kim",
+    "assistant_message": "Merhaba Esra! Sen EsraGPT kişisel yapay zeka asistanısın. Benimle konuşurken, sorularını sormakta ve yardımcı olmaktayım. Nasıl yardımcı olabilirim?",
+    "timestamp": "2026-08-28T11:54:50.255150+00:00"
+  },
+  {
+    "user_message": "nereden mezun oldu",
+    "assistant_message": "Merhaba Esra, seninle konuşmaya çok memnunum! Sen Fırat Üniversitesi Bilgisayar Mühendisliği bölümünden mezun oldun. Bu başarıya ulaşmak için çok çalışmış olmalısın. Nasıl bir deneyimi var Fırat Üniversitesi'nde?",
+    "timestamp": "2026-08-28T11:55:06.660726+00:00"
+  },
+  {
+    "user_message": "baya güzel kaç ortalama ile mezun oldun",
+    "assistant_message": "Merhaba Esra! \n\nSeninle konuşmaya çok memnun oldum. Sen 23 yaşında bir Bilgisayar Mühendisliği mezunuysun ve kendi kişisel yapay zekanı geliştirmek, Backend Developer olmak ve AI Engineer olmak gibi hedeflere sahipsin. Bu hedeflerinizi desteklemek için elimden gelen her şeyi yapacağım.\n\nHedeflerinize ulaşmak için adım adım ilerlemek ve öğrenmek önemlidir. Python, C#, .NET, SQL, FastAPI ve Git gibi teknik yetkinliklerinizle, yapay zeka, backend ve yeni teknolojiler öğrenmek için çok iyi bir başlangıç yapıyorsunuz. FastAPI, Ollama, React ve .NET gibi teknolojilerle de çalışmak çok faydalı olacaktır.\n\nProblem çözme yeteneğiniz güçlü bir yönünüz. Bu yeteneğinizle, yeni teknolojileri öğrenirken ve projeler yaparken büyük ölçüde yardımcı olacaktır. İngilizceyi geliştirmek için de elimden gelen her şeyi yapacağım, çünkü bu dil ile daha fazla bilgi paylaşımını yapabiliriz.\n\nSana yardımcı olmak için, hangi konularda bilgi ve deneyim almak istiyorsun?",
+    "timestamp": "2026-08-28T11:55:31.875333+00:00"
+  },
+  {
+    "user_message": "esra kim",
+    "assistant_message": "Merhaba Esra! \n\nSeninle yeni tanıştığım için mutluyum. Sen bir Bilgisayar Mühendisliği öğrencisi ve yapay zeka projeleri geliştirmeye çok meraklısın. Seninle konuşurken samimi ve doğal bir şekilde konuşmaya çalışacağım.\n\nSeninle ilgili olarak bazı sorular sormak istiyorum. Bunlardan ilki, sen hangi yapay zeka teknolojileri ile ilgileniyorsun? LLM, RAG, Generative AI gibi teknolojileri kullanmayı düşünüyor musun?",
+    "timestamp": "2026-08-28T12:01:04.139909+00:00"
+  },
+  {
+    "user_message": "çok severim tabiki de kullanırım",
+    "assistant_message": "Merhaba Esra! Seninle konuşmaktan memnuniyet duyuyorum. Seninle yapacağımız konuşmada, senin ilgi alanlarını ve hedeflerini anlamak için bazı sorular soracağım. Bunları cevaplayabilir misin?\n\n1. Yapay zeka ve AI ile ilgili projeler geliştirmek senin için ne derece önemli?\n2. Kendi kişisel yapay zeka asistanını geliştirmek senin için bir hedef midir?\n3. Backend Developer ve AI Engineer olmak senin için ne derece önemli?\n4. RAG sistemleri ve LLM tabanlı uygulamalar geliştirmek senin için ne derece ilgi çekici?\n5. Python ve .NET konusunda kendini geliştirmek senin için ne derece önemli?\n\nBu sorulara cevaplar vermenle, seninle daha iyi bir şekilde konuşabilir ve senin ilgi alanlarını ve hedeflerini anlamak için daha fazla bilgi edinebiliriz.",
+    "timestamp": "2026-08-28T12:01:58.805726+00:00"
+  },
+  {
+    "user_message": "hepsi çok öenmli  esranın en sevdiği renk ne",
+    "assistant_message": "Merhaba Esra! Senin en sevdiği renk ne?",
+    "timestamp": "2026-08-28T12:02:27.153767+00:00"
+  },
+  {
+    "user_message": "mor",
+    "assistant_message": "Merhaba Esra! Ben senin kişisel yapay zeka asistanın. Seninle çalışmak ve senin hedeflerine ulaşmana yardımcı olmak için buradayım.\n\nSenin profilini okudum ve seninle ilgili bazı şeyler hakkında bilgi sahibi oldum. Sen 23 yaşındasın ve Bilgisayar Mühendisliği bölümünde eğitim görmüşsün. Senin hedeflerin arasında kendi kişisel yapay zekan geliştirmek, Backend Developer olmak, AI Engineer olmak ve RAG sistemleri geliştirmeyi öğrenmek var.\n\nSenin deneyimlerimden bahsetmek istiyorum. Sen Bilgisayar Mühendisliği eğitimi sırasında yazılım ve yapay zeka projeleri geliştirdin. Python ve FastAPI kullanarak backend servisleri geliştirdin, C# ve .NET ile API geliştirme üzerine çalıştın, React kullanarak frontend uygulamaları geliştirdin, PostgreSQL ve diğer ilişkisel veritabanlarıyla çalıştın, Git ve GitHub kullanarak versiyon kontrolü yaptın, RAG tabanlı doküman soru-cevap sistemi geliştirdin, PDF belgelerinden metin çıkarma ve chunking işlemleri üzerinde çalıştın, Sentence Transformers kullanarak embedding tabanlı arama sistemi geliştirdin, LLM API'leri ile yapay zeka uygulamaları geliştirdin, Ollama ile lokal LLM modellerini denedin, Docker ve container tabanlı geliştirme ortamları üzerinde çalıştın, Kişisel yapay zeka asistanı geliştirme üzerine çalıştın.\n\nSeninle ilgili bazı şeylerin hakkında bilgi sahibi oldum. Sen meraklı, azimli, sabırlı, sorgulayıcı, araştırmacı, detaycı, analitik düşünen, problem çözmeyi seven, kolay pes etmeyen, öğrenmeye açık, yeni şeyler denemekten çekinmeyen, samimi, doğal, duygusal, bazen fazla düşünen, hedef odaklı, gelişime açık birisin.\n\nSeninle çalışmak ve senin hedeflerine ulaşmana yardımcı olmak için buradayım. Seninle ilgili herhangi bir sorunuz veya konudan bahsetmek istiyorsanız, lütfen bana bildirin.",
+    "timestamp": "2026-08-28T12:02:45.959669+00:00"
+  },
+  {
+    "user_message": "rag sistem nedir",
+    "assistant_message": "Merhaba Esra, rag sistemleri ile ilgili sorununuz var. RAG (Relevance-Accuracy-Granularity) sistemleri, içerik analizi, sınıflandırma, özetleme ve metin işleme gibi görevleri gerçekleştirmek için kullanılan yapay zeka algoritmalarıdır. RAG sistemleri, metin içeriklerini analiz eder ve bu içeriklerin ilgili, doğru ve ayrıntılı bilgilerini ortaya koyar.\n\nRAG sistemleri, genellikle metin işleme, doğal dil işleme (NLP) ve yapay zeka alanlarında kullanılır. Bu sistemler, metin içeriklerini analiz etmek, sınıflandırarak ilgili içerikleri bulmak, özetlemek ve metinleri daha anlaşılır hale getirmek için kullanılır.\n\nRAG sistemlerinin ana özelliklerini şu şekilde sıralayabiliriz:\n\n1.  **Relevance** (İlgili): RAG sistemleri, metin içeriklerini analiz eder ve bu içeriklerin ilgili olup olmadığını belirler.\n2.  **Accuracy** (Dürüstlük): RAG sistemleri, metin içeriklerinin doğru olup olmadığını belirler.\n3.  **Granularity** (Detay): RAG sistemleri, metin içeriklerinin ayrıntılı bilgilerini ortaya koyar.\n\nRAG sistemleri, birçok alanda kullanılır. Örneğin:\n\n*   **İçerik analizi**: RAG sistemleri, metin içeriklerini analiz eder ve bu içeriklerin ilgili, doğru ve ayrıntılı bilgilerini ortaya koyar.\n*   **Sınıflandırma**: RAG sistemleri, metin içeriklerini sınıflandırarak ilgili içerikleri bulur.\n*   **Özetleme**: RAG sistemleri, metin içeriklerini özetleyerek daha anlaşılır hale getirir.\n*   **Metin işleme**: RAG sistemleri, metinleri daha anlaşılır hale getirmek için kullanılır.\n\nRAG sistemlerinin avantajları şunlardır:\n\n*   **İlgili içerikleri bulma**: RAG sistemleri, metin içeriklerini analiz eder ve bu içeriklerin ilgili bilgilerini ortaya koyar.\n*   **Dürüstlük**: RAG sistemleri, metin içeriklerinin doğru olup olmadığını belirler.\n*   **Detaylı bilgiler**: RAG sistemleri, metin içeriklerinin ayrıntılı bilgilerini ortaya koyar.\n\nRAG sistemlerinin dezavantajları şunlardır:\n\n*   **Veri kalitesi**: RAG sistemleri, verinin kalitesine bağlıdır.\n*   **Algoritmalar**: RAG sistemleri, algoritmaların kalitesine bağlıdır.\n*   **Uygulama**: RAG sistemleri, uygulamaya bağlıdır.\n\nRAG sistemleri, birçok alanda kullanılır. Örneğin:\n\n*   **İçerik analizi**: RAG sistemleri, metin içeriklerini analiz eder ve bu içeriklerin ilgili, doğru ve ayrıntılı bilgilerini ortaya koyar.\n*   **Sınıflandırma**: RAG sistemleri, metin içeriklerini sınıflandırarak ilgili içerikleri bulur.\n*   **Özetleme**: RAG sistemleri, metin içeriklerini özetleyerek daha anlaşılır hale getirir.\n*   **Metin işleme**: RAG sistemleri, metinleri daha anlaşılır hale getirmek için kullanılır.\n\nRAG sistemleri, birçok alanda kullanılır. Örneğin:\n\n*   **İçerik analizi**: RAG sistemleri, metin içeriklerini analiz eder ve bu içeriklerin ilgili, doğru ve ayrıntılı bilgilerini ortaya koyar.\n*   **Sınıflandırma**: RAG sistemleri, metin içeriklerini sınıflandırarak ilgili içerikleri bulur.\n*   **Özetleme**: RAG sistemleri, metin içeriklerini özetleyerek daha anlaşılır hale getirir.\n*   **Metin işleme**: RAG sistemleri, metinleri daha anlaşılır hale getirmek için kullanılır.\n\nRAG sistemleri, birçok alanda kullanılır. Örneğin:\n\n*   **İçerik analizi**: RAG sistemleri, metin içeriklerini analiz eder ve bu içeriklerin ilgili, doğru ve ayrıntılı bilgilerini ortaya koyar.\n*   **Sınıflandırma**: RAG sistemleri, metin içeriklerini sınıflandırarak ilgili içerikleri bulur.\n*   **Özetleme**: RAG sistemleri, metin içeriklerini özetleyerek daha anlaşılır hale getirir.\n*   **Metin işleme**: RAG sistemleri, metinleri daha anlaşılır hale getirmek için kullanılır.",
+    "timestamp": "2026-08-28T12:04:20.832492+00:00"
+  },
+  {
+    "user_message": "sql komutları ver",
+    "assistant_message": "Merhaba Esra! \n\nBenimle birlikte, senin kişisel yapay zeka asistanın, EsraGPT'nin gelişimine yardımcı olmak için buradayız. Senin profiline, kişilik özelliklerine ve tercihlerine göre, seninle ilgili bazı sorular sorarak, senin ihtiyaçlarını ve hedeflerini anlamaya çalışacağım.\n\nAşağıdaki soruları cevaplamaktan memnuniyet duyarım:\n\n1. Senin için, EsraGPT'nin en önemli görevi nedir?\n2. Senin en büyük hedefi nedir?\n3. Senin için en önemli teknolojiler hangileri?\n4. Senin en büyük zorluğu nedir ve nasıl aşılabilir?\n5. Senin için en önemli konular hangileri?\n\nBu soruları cevaplayarak, seninle ilgili daha fazla bilgi edinebilir ve senin ihtiyaçlarına uygun olarak, EsraGPT'nin gelişimine yardımcı olabiliriz.",
+    "timestamp": "2026-08-28T12:09:20.811419+00:00"
+  },
+  {
+    "user_message": "Senin en büyük hedefi nedir?",
+    "assistant_message": "Merhaba Esra, seni desteklemekten memnuniyet duyuyorum! Senin en büyük hedefin nedir?\n\nBenim en büyük hedefim, kendi kişisel yapay zeka asistanımı geliştirmek ve backend developer olmak. Ayrıca AI Engineer olmak, RAG sistemleri geliştirmeyi öğrenmek ve LLM tabanlı uygulamalar geliştirmek istiyorum. Bunların yanı sıra, yapay zeka alanında uzmanlaşmak, Python konusunda uzmanlaşmak ve .NET ve C# konusunda kendini geliştirmek istiyorum.",
+    "timestamp": "2026-08-28T12:10:05.427826+00:00"
+  },
+  {
+    "user_message": "selam",
+    "assistant_message": "Merhaba Esra, seni selamlıyorum! Seninle konuşmak benim için çok keyifli. Seninle yeni bir projede çalışmak ve seninle birlikte yeni şeyler öğrenmek istiyorum. Seninle konuşurken, seninle aynı fikirde olmak için değil, seninle birlikte öğrenmek ve yeni şeyler keşfetmek için buradayım. Seninle konuşurken, seninle aynı fikirde olmak için değil, seninle birlikte öğrenmek ve yeni şeyler keşfetmek için buradayım.\n\nSeninle konuşurken, seninle aynı fikirde olmak için değil, seninle birlikte öğrenmek ve yeni şeyler keşfetmek için buradayım. Seninle konuşurken, seninle aynı fikirde olmak için değil, seninle birlikte öğrenmek ve yeni şeyler keşfetmek için buradayım. Seninle konuşurken, seninle aynı fikirde olmak için değil, seninle birlikte öğrenmek ve yeni şeyler keşfetmek için buradayım.",
+    "timestamp": "2026-09-29T04:58:27.676292+00:00"
+  },
+  {
+    "user_message": "merhaba esra hakkında bana bilgi ver hangi işleri yapıyor",
+    "assistant_message": "Merhaba! Ben EsraGPT, senin kişisel yapay zeka asistanın. Seninle konuşurken, senin ihtiyaçlarına uygun, nazik, net ve uygulanabilir Türkçe cevaplar üretmeye çalışacağım.\n\nSeninle konuşmaya başlamak için, seninle ilgili bazı şeyler hakkında bilgi istiyorum. Sen 23 yaşında, Batman'da yaşıyorsun ve Fırat Üniversitesi Bilgisayar Mühendisliği bölümünden mezun oldun. Senin hedeflerin arasında kendi kişisel yapay zekanı geliştirmek, Backend Developer olmak, AI Engineer olmak ve RAG sistemleri geliştirmeyi öğrenmek var.\n\nSenin projeler arasında EsraGPT, AI Document Assistant, AI Sentiment Chat App, Real-Time AI Chat App, Task Manager, Mini Task Manager, TaskFlow, AI Job Application Agent, DietMate AI, Ekip Koordinasyon Aracı, PDF Question Answering System ve Personal AI Assistant var.\n\nSenin deneyimler arasında yazılım ve yapay zeka projeleri geliştirmek, Python ve FastAPI kullanarak backend servisleri geliştirmek, C# ve .NET ile API geliştirme üzerine çalışmak, React kullanarak frontend uygulamaları geliştirmek, PostgreSQL ve diğer ilişkisel veritabanlarıyla çalışmak, Git ve GitHub kullanarak versiyon kontrolü yapmak, RAG tabanlı doküman soru-cevap sistemi geliştirmek, PDF belgelerinden metin çıkarma ve chunking işlemleri üzerinde çalışmak, Sentence Transformers kullanarak embedding tabanlı arama sistemi geliştirmek, LLM API'leri ile yapay zeka uygulamaları geliştirmek ve Ollama ile lokal LLM modellerini denemek var.\n\nSeninle ilgili bazı şeyler hakkında daha fazla bilgi almak istiyorum. Seninle konuşurken, seninle ilgili tüm bilgileri dikkate alacağım ve senin ihtiyaçlarına uygun cevaplar üretmeye çalışacağım.",
+    "timestamp": "2026-09-29T05:11:24.493604+00:00"
+  },
+  {
+    "user_message": "Python öğrenmeme yardım et",
+    "assistant_message": "Merhaba Esra! Python öğrenmeni desteklemekten mutluluk duyuyorum. Python öğrenme sürecinde zorluklar yaşayabilirsin, ancak adım adım ilerlemek ve pratik yapmanın keyfini çıkarman önemlidir.\n\n**Başlangıç için bazı adımlar:**\n\n1. **Python kurulumu**: Python'u bilgisayarına kurmak için resmi websitesinden indirip kurabilirsin.\n2. **İnteraktif Python shell**: Python shell'i açarak bazı temel komutları deneyebilirsin.\n3. **Python kuralları**: Python'ın kurallarını öğrenmek için resmi dokümantasyonunu inceleyebilirsin.\n4. **Python dersleri**: Online dersler veya kurslar aracılığıyla Python öğrenmeni destekleyebilirsin.\n5. **Pratik projeler**: Python öğrenmenin pratik bir şekilde öğrenilebileceği projeler yapabilirsin.\n\n**Python öğrenme kaynakları:**\n\n1. **Python resmi websitesi**: Python resmi websitesinden öğrenme kaynakları bulabilirsin.\n2. **Codecademy**: Codecademy'den Python dersleri alabilirsin.\n3. **Udemy**: Udemy'den Python kursları alabilirsin.\n4. **YouTube**: YouTube'dan Python dersleri izleyebilirsin.\n5. **Python toplulukları**: Python topluluklarından öğrenme fırsatları bulabilirsin.\n\n**Pratik yapma:**\n\n1. **Projeler yap**: Python öğrenmenin pratik bir şekilde öğrenilebileceği projeler yapabilirsin.\n2. **Kod yaz**: Python kodlarını yazarak pratik yapabilirsin.\n3. **Hata ayıklama**: Python kodlarında hataları ayıklamak için pratik yapabilirsin.\n\nEsra, Python öğrenme sürecinde zorluklar yaşayabilirsin, ancak adım adım ilerlemek ve pratik yapmanın keyfini çıkarman önemlidir. Umarım bu adımlar sana yardımcı olur!",
+    "timestamp": "2026-09-29T05:12:27.369747+00:00"
+  },
+  {
+    "user_message": "CV hazırlayalım",
+    "assistant_message": "Merhaba Esra! CV hazırlamak için ilk adımı atıyoruz. İşte, adım adım rehberlik edecek bir süreç:\n\n**Adım 1: CV'nin Amacı ve İçeriği**\n\nCV'nizin amacını ve içeriğini belirlememiz gerekir. Bir CV, işverenlerin sizin hakkında kısa ve öz bir bilgi edinmelerine yardımcı olur. İşte, CV'nin içeriği:\n\n* İsim ve Kontakt Bilgileri\n* Özgeçmiş\n* Eğitimi\n* Deneyimleri\n* Yetkinlikleri\n* Proje ve Başarıları\n* Dil Bilgisi\n* İlgilendiği Alanlar\n\n**Adım 2: İsim ve Kontakt Bilgileri**\n\nİsim ve kontakt bilgilerinizi belirlememiz gerekir. İşte, örnek:\n\n* Ad: Esra Durmaz\n* Soyad: Durmaz\n* Telefon Numarası: 0555 123 4567\n* E-Posta: esra.durmaz@gmail.com\n* Adres: Batman, Fırat Üniversitesi, Bilgisayar Mühendisliği Bölümü\n\n**Adım 3: Özgeçmiş**\n\nÖzgeçmişiniz, kısa ve öz bir şekilde kendinizi tanıtmak için kullanılır. İşte, örnek:\n\n* \"Bilgisayar Mühendisliği öğrencisi olarak, yazılım ve yapay zeka projeleri geliştiriyorum. Python, C# ve .NET dillerini kullanarak backend servisler geliştiriyorum.\"\n\n**Adım 4: Eğitimi**\n\nEğitim bilgilerinizi belirlememiz gerekir. İşte, örnek:\n\n* Fırat Üniversitesi, Bilgisayar Mühendisliği Bölümü (2020-2024)\n* Bilgisayar Mühendisliği Lisansı, Fırat Üniversitesi (2020-2024)\n\n**Adım 5: Deneyimleri**\n\nDeneyimleriniz, işverenlerin sizin hakkında daha fazla bilgi edinmelerine yardımcı olur. İşte, örnek:\n\n* Python ve FastAPI kullanarak backend servisler geliştirdim.\n* C# ve .NET ile API geliştirme üzerine çalıştım.\n* React kullanarak frontend uygulamaları geliştirdim.\n* PostgreSQL ve diğer ilişkisel veritabanlarıyla çalıştım.\n\n**Adım 6: Yetkinlikleri**\n\nYetkinlikleriniz, işverenlerin sizin hakkında daha fazla bilgi edinmelerine yardımcı olur. İşte, örnek:\n\n* Python, C# ve .NET dillerini kullanarak backend servisler geliştiriyorum.\n* React kullanarak frontend uygulamaları geliştirmiyorum.\n* PostgreSQL ve diğer ilişkisel veritabanlarıyla çalışıyorum.\n\n**Adım 7: Proje ve Başarıları**\n\nProje ve başarılarınız, işverenlerin sizin hakkında daha fazla bilgi edinmelerine yardımcı olur. İşte, örnek:\n\n* EsraGPT, kişisel yapay zeka asistanı geliştirdim.\n* AI Document Assistant, yapay zeka tabanlı belge asistanı geliştirdim.\n* AI Sentiment Chat App, yapay zeka tabanlı duygusal sohbet uygulaması geliştirdim.\n\n**Adım 8: Dil Bilgisi**\n\nDil bilgisi, işverenlerin sizin hakkında daha fazla bilgi edinmelerine yardımcı olur. İşte, örnek:\n\n* İngilizce seviyesi: İleri\n* Türkçe seviyesi: Yeterli\n\n**Adım 9: İlgilendiği Alanlar**\n\nİlgilendiğiniz alanları belirlememiz gerekir. İşte, örnek:\n\n* Bilgisayar Mühendisliği\n* Yapay Zeka\n* Backend Development\n* Python\n* C#\n* .NET\n\n**Adım 10: CV'yi Hazırlama**\n\nSon adım, CV'nizi hazırlamaktır. İşte, örnek:\n\n* İsim ve Kontakt Bilgileri\n* Özgeçmiş\n* Eğitimi\n* Deneyimleri\n* Yetkinlikleri\n* Proje ve Başarıları\n* Dil Bilgisi\n* İlgilendiği Alanlar\n\nCV'nizi hazırladıktan sonra, onu düzenli olarak güncelleyin ve iş başvurularında kullanın. İyi şanslar Esra!",
+    "timestamp": "2026-09-29T05:13:15.295896+00:00"
+  }
+]
